@@ -1,4 +1,4 @@
-## Algoritm de rezolvare
+### Algoritm de rezolvare
 Intr-un loop 
 
 
